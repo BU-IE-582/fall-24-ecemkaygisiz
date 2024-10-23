@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Ecem Kaygisiz's Progress Journal
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+This journal is created to document my progress for IE 582 Fall 2024.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About This Journal
 
-### Markdown
+This space will include my homeworks, projects, and key milestones throughout the course. Follow along to see my learning journey!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Topics Covered
 
-```markdown
-Syntax highlighted code block
+1. **Introduction to Data**
+   - Basic data notation
+   - Data size considerations
 
-# Header 1
-## Header 2
-### Header 3
+2. **Supervised Learning**
+   - Classifiers: Nearest-neighbor methods
+   - Decision trees and modifications for regression
+   - Overfitting and performance evaluation
+   - Support vector machines (SVM)
+   - Ensemble methods, boosting, and multiclass analysis
+   - Feature selection in supervised learning
 
-- Bulleted
-- List
+3. **Unsupervised Learning**
+   - Cluster analysis: Hierarchical clustering, K-means, and alternatives
+   - Evaluation methods for clustering
 
-1. Numbered
-2. List
+4. **Dimensionality Reduction & Feature Transformations**
+   - Techniques to reduce the dimensionality of datasets
+   - Transforming features for better model performance
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Journal Entries
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here, I'll provide updates and summaries of key progress in my assignments and projects.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For any questions, you can reach me via my [GitHub](https://github.com/EcemKaygisiz).
