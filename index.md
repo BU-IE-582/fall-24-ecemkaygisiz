@@ -36,6 +36,7 @@ Here, I'll provide updates and summaries of key progress in my assignments and p
  [Homework 1](https://github.com/BU-IE-582/fall-24-ecemkaygisiz/blob/main/IE582_HW1_Ecem_Kaygisiz.html): Analysis of Antenna Design Using Machine Learning Techniques
 IE582_HW1_Ecem_Kaygisiz.html
 
+
 Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
 
 ### Contact
