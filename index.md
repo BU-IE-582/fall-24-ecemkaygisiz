@@ -33,7 +33,7 @@ This space will include my homeworks, projects, and key milestones throughout th
 
 Here, I'll provide updates and summaries of key progress in my assignments and projects.
 
- [Homework 1](https://raw.githubusercontent.com/BU-IE-582/fall-24-ecemkaygisiz/refs/heads/main/files/IE582_HW1_Ecem_Kaygisiz.html): Analysis of Antenna Design Using Machine Learning Techniques
+ [Homework 1](https://BU-IE-582/fall-24-ecemkaygisi/files/IE582_HW1_Ecem_Kaygisiz.html): Analysis of Antenna Design Using Machine Learning Techniques
 IE582_HW1_Ecem_Kaygisiz.html
 
 
