@@ -33,7 +33,7 @@ This space will include my homeworks, projects, and key milestones throughout th
 
 Here, I'll provide updates and summaries of key progress in my assignments and projects.
 
-Homework 1 [HTML File](IE582_HW1_Ecem_Kaygisiz.html)
+[Homework 1](IE582_HW1_Ecem_Kaygisiz.html): Analysis of Antenna Design Using Machine Learning Techniques
 
 Homework 1 Code [IPYNB File](IE582_HW1_Ecem_Kaygisiz.ipynb)
 
