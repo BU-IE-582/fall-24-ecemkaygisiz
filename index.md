@@ -33,7 +33,7 @@ This space will include my homeworks, projects, and key milestones throughout th
 
 Here, I'll provide updates and summaries of key progress in my assignments and projects.
 
- [Homework 1]: The .html file is in a folder called files and this folder is in the same location with your index file.
+ [Homework 1](https://github.com/BU-IE-582/fall-24-ecemkaygisiz/files/IE582_HW1_Ecem_Kaygisiz.html): The .html file is in a folder called files and this folder is in the same location with your index file.
 
 
 Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
