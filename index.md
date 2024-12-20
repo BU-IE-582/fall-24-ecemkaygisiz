@@ -9,11 +9,8 @@ This space will include my homeworks, projects, and key milestones throughout th
 ### Topics Covered
 
 1. **Introduction to Data**
-
 2. **Supervised Learning**
-
 3. **Unsupervised Learning**
-
 4. **Dimensionality Reduction & Feature Transformations**
 
 
@@ -24,6 +21,10 @@ Here, I'll provide updates and summaries of key progress in my assignments and p
 [Homework 1](IE582_HW1_Ecem_Kaygisiz.html): Analysis of Antenna Design Using Machine Learning Techniques
 
 [Homework 1 Code](IE582_HW1_Ecem_Kaygisiz.ipynb)
+
+[Homework 2](IE582_HW2_Ecem_Kaygisiz.html): Sports Forecasting
+
+[Homework 2 Code](IE582_HW2_Ecem_Kaygisiz.ipynb)
 
 
 Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
