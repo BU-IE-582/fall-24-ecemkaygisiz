@@ -28,6 +28,7 @@ Here, I'll provide updates and summaries of key progress in my assignments and p
 
 Project: Developing a Live Betting Strategy with Machine Learning
 Project Report
+Project Code HTML
 Project Code
 
 Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
