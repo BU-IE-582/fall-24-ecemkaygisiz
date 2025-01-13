@@ -26,6 +26,9 @@ Here, I'll provide updates and summaries of key progress in my assignments and p
 
 [Homework 2 Code](IE582_HW2_Ecem_Kaygisiz.ipynb)
 
+Project: Developing a Live Betting Strategy with Machine Learning
+Project Report
+Project Code
 
 Feel free to check out more on my [GitHub Profile](https://github.com/EcemKaygisiz)!
 
